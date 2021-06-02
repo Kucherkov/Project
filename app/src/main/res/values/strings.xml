@@ -1,0 +1,30 @@
+<resources>
+    <string name="city_activity_lable">Укажите название города</string>
+    <string name="facebook_app_id">306174097829947</string>
+    <string name="fb_login_protocol_scheme">fb306174097829947</string>
+    <string name="app_name">WeatherProject</string>
+    <string name="title_activity_map">Map</string>
+    <string name="button_name">Получить недельный прогноз</string>
+    <string name="humidity_icon">&#xf07a;</string>
+    <string name="celsius_icon">&#xf03c;</string>
+    <!--
+    Using weather icon day
+    -->
+    <string name="weather_sunny">&#xf00d;</string>
+    <string name="weather_foggy">&#xf003;</string>
+    <string name="weather_cloudy">&#xf002;</string>
+    <string name="weather_rainy">&#xf008;</string>
+    <string name="weather_snowy">&#xf00a;</string>
+    <string name="weather_thunder">&#xf010;</string>
+    <string name="weather_drizzle">&#xf00b;</string>
+    <!--
+    Using weather icon night
+    -->
+    <string name="weather_clear_night">&#xf02e;</string>
+    <string name="weather_foggy_night">&#xf04a;</string>
+    <string name="weather_cloudy_night">&#xf086;</string>
+    <string name="weather_rainy_night">&#xf028;</string>
+    <string name="weather_snowy_night">&#xf02a;</string>
+    <string name="weather_thunder_night">&#xf02d;</string>
+    <string name="weather_drizzle_night">&#xf02b;</string>
+</resources>

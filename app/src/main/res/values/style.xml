@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ThemeActionBar"
+        parent="Widget.AppCompat.Light.ActionBar.Solid">
+        <item name="android:background">@null</item>
+        <!-- Support library compatibility -->
+        <item name="background">@null</item>
+    </style>
+    <style name="TableTextStyly">
+        <item name="android:textAlignment">center</item>
+        <item name="android:textColor">@color/icon_color</item>
+        <item name="android:layout_marginRight">20sp</item>
+        <item name="android:textSize">40sp</item>
+        <item name="android:fontFamily">@font/weather</item>
+    </style>
+    <style name="TableText">
+        <item name="android:textAlignment">gravity</item>
+        <item name="android:layout_marginRight">25sp</item>
+        <item name="android:layout_marginLeft">25sp</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+    <style name="TableTextDaily">
+        <item name="android:textAlignment">gravity</item>
+        <item name="android:layout_marginRight">25sp</item>
+        <item name="android:layout_marginLeft">25sp</item>
+        <item name="android:textColor">@color/color_table</item>
+        <item name="android:textSize">25sp</item>
+    </style>
+</resources>

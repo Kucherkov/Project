@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/name_search"
+        android:orderInCategory="1"
+        android:title="Поиск по названию" />
+    <item
+        android:id="@+id/map_search"
+        android:orderInCategory="2"
+        android:title="Поиск по карте" />
+    <item
+        android:id="@+id/sign_in"
+        android:orderInCategory="3"
+        android:title="Войти с помощью..." />
+</menu>
