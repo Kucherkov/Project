@@ -8,8 +8,4 @@
         android:id="@+id/map_search"
         android:orderInCategory="2"
         android:title="Поиск по карте" />
-    <item
-        android:id="@+id/sign_in"
-        android:orderInCategory="3"
-        android:title="Войти с помощью..." />
 </menu>
